@@ -1,0 +1,13 @@
+/ (root)
+index.html
+about.html
+products.html
+blog.html
+contact.html
+/css
+style.css
+/js
+main.js
+/images
+(place product images here)
+README.md
