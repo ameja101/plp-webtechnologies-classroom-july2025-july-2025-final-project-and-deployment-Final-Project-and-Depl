@@ -18,3 +18,5 @@ The project demonstrates responsive design, interactivity, and best practices fo
 ---
 
 ## 📂 File Structure
+
+- Netlify web url: https://tranquil-cat-1eab35.netlify.app/
